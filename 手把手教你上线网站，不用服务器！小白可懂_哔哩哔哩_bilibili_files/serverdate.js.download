@@ -1,0 +1,1 @@
+window.serverdate = Date.UTC(2021, 11, 21, 9, 46, 57);
